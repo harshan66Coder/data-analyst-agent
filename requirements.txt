@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+matplotlib
+pillow
+duckdb
+pyarrow
+streamlit
+lxml
+fastapi
+uvicorn
+pandas
+requests
+scipy
+python-dotenv
+pyyaml
